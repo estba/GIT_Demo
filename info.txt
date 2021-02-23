@@ -1,1 +1,4 @@
 Learning GIT repositories. So please co-operate.
+
+Your identification has been saved in /c/Users/Elcot/.ssh/id_rsa
+Your public key has been saved in /c/Users/Elcot/.ssh/id_rsa.pub
